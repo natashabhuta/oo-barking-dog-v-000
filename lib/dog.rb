@@ -6,7 +6,6 @@ class Dog(name)
   end 
   
   def name
-    "#{name}.strip
-    
+    "#{name}"".strip
   
 
