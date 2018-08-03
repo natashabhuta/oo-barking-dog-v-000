@@ -1,5 +1,5 @@
 # Your code goes here!
-class Dog(name, bark)
+class Dog(name)
   def initialize(name)
   @name = Fido
   end 
