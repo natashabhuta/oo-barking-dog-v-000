@@ -4,7 +4,10 @@ class Dog
     @name
   end 
 
-  def 
+  def name=(get_name)
+    
+    
+    
     def bark 
     puts "woof!"
    end 
