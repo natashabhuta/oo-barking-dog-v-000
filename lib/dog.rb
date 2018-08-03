@@ -7,5 +7,8 @@ class Dog(name)
   
   def name
     "{name}".strip
+  end
+  
+ 
   
 
