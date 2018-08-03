@@ -9,6 +9,8 @@ class Dog(name)
     "{name}".strip
   end
   
+end 
+  
  
   
 
