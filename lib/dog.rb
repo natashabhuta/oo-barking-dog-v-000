@@ -4,7 +4,7 @@ class Dog(name)
   @name = name 
   end 
   def name
-    "{name}".strip
+    "{name}".chomp
   end
 end 
   
