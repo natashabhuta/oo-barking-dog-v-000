@@ -3,13 +3,10 @@ class Dog(name)
   def initialize(name)
   @name = name 
   end 
-  def name
-    "{name}".chomp
-  end
-end 
   
- def bark 
- puts "woof!"
+    def bark 
+    puts "woof!"
+   end 
  end 
   
 
